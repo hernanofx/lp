@@ -30,35 +30,35 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #f5b0e0;
+    background: #eee;
 }
 
 .about-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #eee;
+    background: #f5b0e0;
 }
 
 .services-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #f5b0e0;
+    background: #eee;
 }
 
 .zona-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #eee;
+    background: #f5b0e0;
 }
 
 .contact-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #f5b0e0;
+    background: #eee;
 }
 
 
@@ -159,15 +159,6 @@ body {
     line-height: 1.8;
     color: #818181;
 }
-
-h1 {
-    font-size: 48px;
-    font-family: 'Lobster', cursive;
-    color: #a21b3f;
-    font-weight: 600;
-    margin-bottom: 30px;
-}
-
 
 h2 {
     font-size: 24px;
@@ -343,4 +334,44 @@ footer .glyphicon {
     .logo {
         font-size: 150px;
     }
+}
+
+intro-section {
+    font-size: 48px;
+    font-family: 'Lobster', cursive;
+    color: #a21b3f;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+about-section {
+    font-size: 48px;
+    font-family: 'Lobster', cursive;
+    color: #a21b3f;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+services-section {
+    font-size: 48px;
+    font-family: 'Lobster', cursive;
+    color: #a21b3f;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+zona-section {
+    font-size: 48px;
+    font-family: 'Lobster', cursive;
+    color: #a21b3f;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+contact-section {
+    font-size: 48px;
+    font-family: 'Lobster', cursive;
+    color: #a21b3f;
+    font-weight: 600;
+    margin-bottom: 30px;
 }
