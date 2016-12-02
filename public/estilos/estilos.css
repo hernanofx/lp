@@ -30,7 +30,7 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background: #f5b0e0;
 }
 
 .about-section {
@@ -44,7 +44,7 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background: #f5b0e0;
 }
 
 .zona-section {
@@ -58,7 +58,7 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background: #f5b0e0;
 }
 
 
@@ -185,12 +185,6 @@ h4 {
     margin-bottom: 30px;
 }
 
-.jumbotron {
-    background-color: #f5b0e0;
-    color: #78085f;
-    padding: 100px 25px;
-    font-family: Montserrat, sans-serif;
-}
 
 .container-fluid {
     padding: 60px 50px;
